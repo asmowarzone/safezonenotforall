@@ -5,7 +5,8 @@
           "1.2.22": "1ZrW_KIX3wVxnbdl9gaUb8h_e7FHEYaau"
         },
   "N":{
-          "1.3.04": "asdfasldfasdfasdf",
-          "1.3.02": "asdfasldfasdfasdf"
+          "1.3.05": "1ndzB6INUNni5DWISkfaT-Xg5i4wlI5Zs",
+          "1.3.02": "1WqdxfCoLd7UqK1OYSmFCvYdeBSw3YWI0",
+          "1.2.33": "1YGs2FvvwIXPmrNHixop_q-hJVRl4AGfJ"
       }
 }
