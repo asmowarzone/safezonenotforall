@@ -8,11 +8,9 @@
           "1.3.43": "1bbbwLlcqmvElhQl6Sknl6iDiXHP96mCa",
           "1.3.34": "1ufNU3wdcy3zNMUTZm2lVmHZ3gqew5i_a",
           "1.3.29": "1VrNtPFvPWmjmzBa3bYpY5_90kB0R8DiS",
-          "1.3.23": "1tCx9JzTpXf6v8Yifr-P6ozzCRj6O0AMs",
-          "1.3.17": "1mlmwIr0llNWf_BRbtMLaIDE0xTktfwjI"
         },
   "N":{
-          "1.3.71": "1gZgquJLxTwzKC9_kF7K7Tx6XJgU--5Nt",
+          "1.3.71": "1swkBDAeYNk_92aEq6CXRm39XdY0LEJjH",
           "1.3.54": "1Xgqdx-ddIKtSzk8EgcV1zxjI4MLnkAhv",
           "1.3.51": "1Tg_MNMEg_2rL6ZKa6UKodaL-CqpXEN3z",
           "1.3.49": "1GVzX9QqKmSvjio_WAgNgD1eaTE5JdZbs",
@@ -20,7 +18,5 @@
           "1.3.43": "1Ghn3IMbNHLLvSbPummHR2ku0Lv_LpEpT",
           "1.3.34": "12lRmcSO8bSr5EP8VueEEQCuwPdbQ5DgI",
           "1.3.29": "1WtUv64Tffy9hu7gDZK-iX-OG5xJVG6ky",
-          "1.3.23": "177fO8Lk-z0LjtqTFbTjU6PW5m4wHr740",
-          "1.3.17": "1u1wi-kveKOlOuF4n1sAjHPwjd6nJhn26"
       }
 }
