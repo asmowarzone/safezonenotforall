@@ -1,5 +1,6 @@
 {
   "Pro":{
+          "1.4.44": "1H8l2Kyqs940mc8HufkSJ4MgL0xIk6aae",
           "1.4.42": "13zCmPjVFXIUPFJ7VK4Icw5q6y02oVFsF",
           "1.4.41": "1fdmuj0lTfeEfZvDgR59Xd0n-NYcyNYmF",
           "1.4.40": "1SAMMk2Xob_2QZAuH-0NPa3IekgZQkFOW",
@@ -16,6 +17,7 @@
           "1.4.00": "1bHzh1R2O90pb1gJfiZiSuueTSHxRGNjS"
         },
   "N":{
+          "1.4.44": "1v_9qi3M0jevi44oDvfD2-tyG8oX6_SE8",
           "1.4.42": "1bkitBqJR5mxa4nFErLkqH6-ErEHF1NO_",
           "1.4.41": "1cEFU5wklF9Wdb1-WPCNZo48xg-Fsvxzv",
           "1.4.40": "1jRcZXTCI8D6aq2tN1sAKBy7LO178nq2-",
