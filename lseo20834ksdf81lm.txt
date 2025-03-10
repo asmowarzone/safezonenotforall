@@ -17,6 +17,6 @@
           "1.4.56": "1Ie94OHZRK71AQs30ld6KKkKjErwvZubq",
           "1.4.55": "1Usxw1k1ie6-ScI02166TRWa27xRMgUhb"
       },
-  "news_code": "29182",
+  "news_code": "",
   "news_link": "https://t.me/bobdevteam"
 }
