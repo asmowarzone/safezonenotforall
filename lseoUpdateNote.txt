@@ -1,3 +1,8 @@
-- New 1
-- New 2
-- New 3
+- New* Invite collaborator to post (Reel/Photo/Video)
+- Tab name 'Schedule Post' -> 'Auto Post'
+- Improved switching profile
+- Fixed Photo post multiple select
+- Fixed clean post caption and hashtags
+- Fixed Account Manager auto-generate info
+- Fixed Bulk Edit
+- Fixed known issue
