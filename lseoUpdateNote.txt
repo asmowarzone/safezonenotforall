@@ -1,8 +1,5 @@
-- New* Invite collaborator to post (Reel/Photo/Video)
-- Tab name 'Schedule Post' -> 'Auto Post'
-- Improved switching profile
-- Fixed Photo post multiple select
-- Fixed clean post caption and hashtags
-- Fixed Account Manager auto-generate info
-- Fixed Bulk Edit
+- Improved record page ID
+- Fixed post collaboration (FB Update)
+- Fixed Reel post wait for caption 
+- Fixed auto-shutdown (Stop at)
 - Fixed known issue
