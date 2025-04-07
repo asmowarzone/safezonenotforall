@@ -1,5 +1,2 @@
-- Improved record page ID
-- Fixed post collaboration (FB Update)
-- Fixed Reel post wait for caption 
-- Fixed auto-shutdown (Stop at)
+- Improved system performance 
 - Fixed known issue
