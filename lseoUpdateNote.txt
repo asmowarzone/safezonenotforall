@@ -1,2 +1,4 @@
-- Improved system performance 
+- Fixed check and deleting flagged content
+- Fixed error reading dashboard data
+- Improved system performance
 - Fixed known issue
