@@ -1,4 +1,6 @@
-- Fixed check and deleting flagged content
-- Fixed error reading dashboard data
+- New* Cross-post to groups (Share caption by AI)
+- Fixed deleting copyright videos (support inbox)
+- Fixed adding page Bio and Email
+- Fixed enable 2FA not input code
 - Improved system performance
 - Fixed known issue

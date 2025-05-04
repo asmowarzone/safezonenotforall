@@ -1,31 +1,19 @@
 {
   "Pro":{
+	  "1.4.68": "10GDEKLzdK5D7LgQuV-a7Zu2Fza2d8xXz",
 	  "1.4.67": "1mGwpoLArPH4FZhcJyxCIe_s5JVt3tP7R",
 	  "1.4.66": "10ovAOsPQ4__jgQTFMC2GupyGp5EAETJX",
 	  "1.4.65": "1z2_RuqJU51JHdaRjI_zgWFBh32BNm2W0",
           "1.4.64": "1JSwCsdYObANDLAYC7zhkTk2YNBSwtfJO",
-	  "1.4.63": "1KnLRgjB3tyffMASdndSPf2y5UxHXMZ7c",
-          "1.4.62": "1IHkGL0zl7sgLC-mMf7gxwwUKxum9e0Ea",
-          "1.4.61": "1KECpuN2eSAiYn_TNotegB8lygIKQUOUv",
-          "1.4.60": "1eQeaBvkQgRPEnzMC6Ru0Wr0tQSPsFswE",
-          "1.4.59": "1fWQMUxzUBN2k95BqF2YKrs83G2Gou9oM",
-          "1.4.57": "1tAmf0t7Kw5xYZNl27UT22xWi76n-b217",
-          "1.4.56": "1NtMtKjhJhOymFI7Ggsr2H_t8wmlPdD8Q",
-          "1.4.55": "1pw2e92PtZvD0aGa1Ut8w4XO0V46mcTzx"
+	  "1.4.63": "1KnLRgjB3tyffMASdndSPf2y5UxHXMZ7c"
         },
   "N":{
+	  "1.4.68": "10GDEKLzdK5D7LgQuV-a7Zu2Fza2d8xXz",
 	  "1.4.67": "1mGwpoLArPH4FZhcJyxCIe_s5JVt3tP7R",
 	  "1.4.66": "10ovAOsPQ4__jgQTFMC2GupyGp5EAETJX",
 	  "1.4.65": "1z2_RuqJU51JHdaRjI_zgWFBh32BNm2W0",
           "1.4.64": "1JSwCsdYObANDLAYC7zhkTk2YNBSwtfJO",
-	  "1.4.63": "1KnLRgjB3tyffMASdndSPf2y5UxHXMZ7c",
-          "1.4.62": "1IHkGL0zl7sgLC-mMf7gxwwUKxum9e0Ea",
-          "1.4.61": "1KECpuN2eSAiYn_TNotegB8lygIKQUOUv",
-          "1.4.60": "1eQeaBvkQgRPEnzMC6Ru0Wr0tQSPsFswE",
-          "1.4.59": "1JnLNMi8QiixrzLTIQfZ0OGMtOeNq1Em4",
-          "1.4.57": "1aj7ImzIvGFdvvuIqFqlgYudyT4JbBbH-",
-          "1.4.56": "1Ie94OHZRK71AQs30ld6KKkKjErwvZubq",
-          "1.4.55": "1Usxw1k1ie6-ScI02166TRWa27xRMgUhb"
+	  "1.4.63": "1KnLRgjB3tyffMASdndSPf2y5UxHXMZ7c"
       },
   "news_code": "",
   "news_link": "https://t.me/bobdevteam"
