@@ -1,3 +1,4 @@
+- Overwrite version 1.4.69 (Unstable fixing select photo post) 
 - New* Locate Me in Marketplace (Randomly during check NewFeed)
 - New* Page join groups by IDs and Keywords
 - Fixed share cross-post to groups, no Save button
