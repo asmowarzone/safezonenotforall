@@ -1,6 +1,5 @@
-- New* Cross-post to groups (Share caption by AI)
-- Fixed deleting copyright videos (support inbox)
-- Fixed adding page Bio and Email
-- Fixed enable 2FA not input code
-- Improved system performance
+- New* Locate Me in Marketplace (Randomly during check NewFeed)
+- New* Page join groups by IDs and Keywords
+- Fixed share cross-post to groups, no Save button
+- Fixed select multiple photo posts (FB updated)
 - Fixed known issue
