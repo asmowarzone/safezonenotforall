@@ -1,6 +1,5 @@
-- Overwrite version 1.4.69 (Unstable fixing select photo post) 
-- New* Locate Me in Marketplace (Randomly during check NewFeed)
-- New* Page join groups by IDs and Keywords
-- Fixed share cross-post to groups, no Save button
-- Fixed select multiple photo posts (FB updated)
+- Fixed login account (Facebook updated)
+- Fixed appeal suspended (Facebook updated)
+- Fixed deleting all posts, clicking trash
+- Fixed time in Post Table
 - Fixed known issue
