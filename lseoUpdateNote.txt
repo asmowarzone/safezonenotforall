@@ -1,4 +1,4 @@
-- Fixed login account (Facebook updated)
+- Resolve new login interface (Facebook updated)
 - Fixed appeal suspended (Facebook updated)
 - Fixed deleting all posts, clicking trash
 - Fixed time in Post Table
