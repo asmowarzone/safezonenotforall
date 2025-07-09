@@ -1,5 +1,8 @@
-- Resolve new login interface (Facebook updated)
-- Fixed appeal suspended (Facebook updated)
-- Fixed deleting all posts, clicking trash
-- Fixed time in Post Table
+- New* Login account with backup login session file
+- Login account auto create LDPlayer
+- Backup account login session file
+- Export account info with login session file
+- Check and clear Facebook app user data
+- Device settings, Enable/Disable network bridging
+- Update BobIp app (2.0.17)
 - Fixed known issue
