@@ -1,8 +1,3 @@
-- New* Login account with backup login session file
-- Login account auto create LDPlayer
-- Backup account login session file
-- Export account info with login session file
-- Check and clear Facebook app user data
-- Device settings, Enable/Disable network bridging
-- Update BobIp app (2.0.17)
+- Resolving comment on the reel post
+- Update BobIp app (2.0.19)
 - Fixed known issue
