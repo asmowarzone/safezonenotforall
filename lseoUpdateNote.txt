@@ -1,3 +1,7 @@
-- Resolving comment on the reel post
-- Update BobIp app (2.0.19)
+- New* View posts
+  + Reels
+  + Photo
+  + Story
+  + Video
+  + Live
 - Fixed known issue
