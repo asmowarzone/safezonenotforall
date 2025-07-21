@@ -1,6 +1,6 @@
 {
   "Pro":{
-	  "1.5.02": "1zP197ezsI-eEU2uoloSNB7MoHHVCeaYr",
+	  "1.5.02": "1P2Rqwr42VlMSfEPP7gNX2NB2USybnmmw",
 	  "1.5.01": "1qXEGjvbSS9nYslU2wvnwato1204TSREa",
 	  "1.5.00": "1o3kj4PlZM_r3PAjBsOyVwvFefUTYMYnL",
 	  "1.4.72": "1SZUJF7auy59bPwe9riNoS2QrgVF06w-B",
@@ -10,7 +10,7 @@
 	  "1.4.67": "1mGwpoLArPH4FZhcJyxCIe_s5JVt3tP7R"
       },
   "N":{
-	  "1.5.02": "1zP197ezsI-eEU2uoloSNB7MoHHVCeaYr",
+	  "1.5.02": "1P2Rqwr42VlMSfEPP7gNX2NB2USybnmmw",
 	  "1.5.01": "1qXEGjvbSS9nYslU2wvnwato1204TSREa",
 	  "1.5.00": "1o3kj4PlZM_r3PAjBsOyVwvFefUTYMYnL",
 	  "1.4.72": "1SZUJF7auy59bPwe9riNoS2QrgVF06w-B",
