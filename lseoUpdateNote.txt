@@ -1,7 +1,5 @@
-- New* View posts
-  + Reels
-  + Photo
-  + Story
-  + Video
-  + Live
+Update now
+
+- New* New* Clear LDPlayer data and restore account
+- Improved performance
 - Fixed known issue
