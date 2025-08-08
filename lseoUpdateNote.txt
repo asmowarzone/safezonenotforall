@@ -1,5 +1,7 @@
-Update now
-
-- New* New* Clear LDPlayer data and restore account
-- Improved performance
+- New* Account recovery (forget password)
+- Fixed view story (profile link, story link)
+- Fixed scroll to see the button Share now (post reel)
+- Fixed not detected 180 days
+- Fixed comment on reel
+- Fixed login process
 - Fixed known issue
