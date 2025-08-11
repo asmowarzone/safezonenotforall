@@ -1,7 +1,3 @@
-- New* Account recovery (forget password)
-- Fixed view story (profile link, story link)
-- Fixed scroll to see the button Share now (post reel)
-- Fixed not detected 180 days
-- Fixed comment on reel
-- Fixed login process
+- Fixed Story post (FB Updated)
+- Fixed Enable 2FA (FB Updated)
 - Fixed known issue
