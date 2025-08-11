@@ -6,7 +6,7 @@
 	  "1.5.02": "1g18Ds9Z09_r5fx4E4ivgs6zD3mNdbFCI",
 	  "1.5.01": "1g18Ds9Z09_r5fx4E4ivgs6zD3mNdbFCI",
 	  "1.5.00": "1g18Ds9Z09_r5fx4E4ivgs6zD3mNdbFCI"
-      }
+      },
   "news_code": "snapkee003",
   "news_link": "https://www.bobdevteam.com/snapkee"
 }
