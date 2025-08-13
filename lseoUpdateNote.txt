@@ -1,3 +1,3 @@
-- Fixed Story post (FB Updated)
-- Fixed Enable 2FA (FB Updated)
+- Fixed Create reel post scroll to enable Share now (FB Updated)
+- Fixed the login form (FB Updated)
 - Fixed known issue
