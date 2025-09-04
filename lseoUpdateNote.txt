@@ -1,4 +1,7 @@
-- Fixed Reel post issue with collaboration
-- Fixed Enable 2FA (FB Update)
-- Follow up Facebook UI update
+- New* Follow/Unfollow pages/profile (default/favorites)
+- New* Active, check stories on NewFeeds
+- Fixed set account info (Workplace, City, ...)
+- Follow up FB UI update
 - Fixed known issue
+
+FB update is still in progress, some unknown issue might randomly occur
