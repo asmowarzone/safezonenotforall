@@ -1,6 +1,5 @@
-- New* Follow/Unfollow pages/profile (default/favorites)
-- New* Active, check stories on NewFeeds
-- Fixed set account info (Workplace, City, ...)
+- Fixed apeal suspended 180 days
+- Fixed create page failed to run
 - Follow up FB UI update
 - Fixed known issue
 
