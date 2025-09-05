@@ -1,3 +1,4 @@
+- Fixed check NewFeed story OK button
 - Fixed apeal suspended 180 days
 - Fixed create page failed to run
 - Follow up FB UI update
