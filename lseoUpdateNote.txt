@@ -1,7 +1,5 @@
-- Fixed check NewFeed story OK button
-- Fixed apeal suspended 180 days
-- Fixed create page failed to run
-- Follow up FB UI update
+- Fixed set account name
+- Fixed failed load Account Manager
 - Fixed known issue
 
 FB update is still in progress, some unknown issue might randomly occur
