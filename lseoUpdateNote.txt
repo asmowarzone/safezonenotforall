@@ -1,5 +1,6 @@
-- Fixed set account name
-- Fixed failed load Account Manager
+- Add amazon link to product links
+- Fixed unfollow page
+- Fixed view story stuck in profile
 - Fixed known issue
 
 FB update is still in progress, some unknown issue might randomly occur
