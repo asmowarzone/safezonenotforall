@@ -1,5 +1,4 @@
-- Add amazon link to product links
-- Fixed unfollow page
+- Improved login proccess
 - Fixed view story stuck in profile
 - Fixed known issue
 
