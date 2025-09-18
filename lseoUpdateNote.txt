@@ -1,5 +1,5 @@
-- Improved login proccess
-- Fixed view story stuck in profile
+- Fixed account locked email
+- Fixed SMSactivated check balance
 - Fixed known issue
 
 FB update is still in progress, some unknown issue might randomly occur
