@@ -1,5 +1,5 @@
-- Improved add new email to account (no need old email to verify)
-- Fixed generate email in set account info
+- Fixed video and reel post
+- Fixed view stories popup
 - Fixed known issue
 
 FB update is still in progress, some unknown issue might randomly occur
