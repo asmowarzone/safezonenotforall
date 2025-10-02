@@ -1,5 +1,6 @@
 - Fixed post without caption
 - Fixed suspended with number
+- Fixed running Active on 1.5.20
 - Fixed known issue
 
 FB update is still in progress, some unknown issue might randomly occur
