@@ -1,5 +1,5 @@
 - Fixed suspended captcha on lite
-- Fixed detect account checkpont
+- Fixed detecting account checkpoint
 - Fixed known issue
 
 FB update is still in progress, some unknown issue might randomly occur
