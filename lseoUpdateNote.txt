@@ -1,6 +1,5 @@
-- Added new email, as primary contact
-- Fixed post without caption
-- Fixed suspended captcha
+- Fixed suspended captcha on lite
+- Fixed detect account checkpont
 - Fixed known issue
 
 FB update is still in progress, some unknown issue might randomly occur
