@@ -1,5 +1,6 @@
-- Fixed suspended captcha on lite
-- Fixed detecting account checkpoint
+- Fixed create page
+- Fixed 2FA, automatically add new 2FA and remove original 2FA
+- Added auto generate name in set account info
 - Fixed known issue
 
 FB update is still in progress, some unknown issue might randomly occur
