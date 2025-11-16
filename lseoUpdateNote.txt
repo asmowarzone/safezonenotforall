@@ -1,6 +1,6 @@
-- New* Attach a photo with comment
-- Added group to Account Manager
-- Added multiple select
+- Fixed enable 2FA with existing 2FA code
+- Fixed comment on photo with a photo
+- Fixed multiple account select live/die
 - Fixed known issue
 
 FB update is still in progress, some unknown issue might randomly occur
