@@ -1,6 +1,8 @@
-- Fixed enable 2FA with existing 2FA code
-- Fixed comment on photo with a photo
-- Fixed multiple account select live/die
+- Added delete page from Facebook (Page Manager)
+- Added post title to Reel and Videos
+- Fixed delete copyright in Support inbox
+- Fixed detect page Verify ID
+- Fixed detect page Upload error
 - Fixed known issue
 
 FB update is still in progress, some unknown issue might randomly occur
