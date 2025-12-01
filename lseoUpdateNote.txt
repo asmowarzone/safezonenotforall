@@ -1,8 +1,7 @@
-- Added delete page from Facebook (Page Manager)
-- Added post title to Reel and Videos
+- Added paste multiple folder path (Post Table)
+- Added Mange LDPlayer in device list
 - Fixed delete copyright in Support inbox
-- Fixed detect page Verify ID
-- Fixed detect page Upload error
+- Fixed post reel
 - Fixed known issue
 
 FB update is still in progress, some unknown issue might randomly occur
