@@ -1,7 +1,4 @@
-- Added paste multiple folder path (Post Table)
-- Added Mange LDPlayer in device list
-- Fixed delete copyright in Support inbox
-- Fixed post reel
+- Improved LDPlayer group
 - Fixed known issue
 
 FB update is still in progress, some unknown issue might randomly occur
