@@ -1,4 +1,7 @@
-- Improved LDPlayer group
+- Fixed dashboard info
+- Fixed page post
+- Fixed delete post
+- Fixed set page city
 - Fixed known issue
 
-FB update is still in progress, some unknown issue might randomly occur
+FB is updating its new UI, some unknown issue might randomly occur
