@@ -1,7 +1,6 @@
 - Fixed dashboard info
 - Fixed page post
 - Fixed delete post
-- Fixed set page city
 - Fixed known issue
 
 FB is updating its new UI, some unknown issue might randomly occur
