@@ -1,6 +1,5 @@
-- Fixed dashboard info
-- Fixed page post
-- Fixed delete post
-- Fixed known issue
+- Added manual running device
+- Fixed post new UI
+- Fixed support inbox
 
 FB is updating its new UI, some unknown issue might randomly occur
