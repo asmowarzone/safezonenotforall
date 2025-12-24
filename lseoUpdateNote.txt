@@ -1,4 +1,4 @@
-- Added manual running device
+- Fixed Bulk Edit conflict
 - Fixed post new UI
 - Fixed support inbox
 
