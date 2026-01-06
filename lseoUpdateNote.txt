@@ -1,5 +1,4 @@
-- Fixed Bulk Edit conflict
-- Fixed post new UI
-- Fixed support inbox
+- Fixed photo Post button
+- Fixed reel video post
 
 FB is updating its new UI, some unknown issue might randomly occur
