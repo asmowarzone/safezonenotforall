@@ -1,4 +1,4 @@
-- Fixed photo Post button
+- Fixed read follower
 - Fixed reel video post
 
 FB is updating its new UI, some unknown issue might randomly occur
