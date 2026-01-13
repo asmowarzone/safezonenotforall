@@ -1,7 +1,6 @@
-- Fixed creating post check-in
-- Fixed Active post photo caption from txt
-- Fixed switching Page more than 6 pages
-- Added quick add account names to Auto Post
+- Added running post from Post Table
+- Added running active (Interaction) from Account Manager
+- Fixed switching profile
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
