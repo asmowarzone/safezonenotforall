@@ -1,6 +1,4 @@
-- Added running post from Post Table
-- Added running active (Interaction) from Account Manager
-- Fixed switching profile
+- Fixed photo post
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
