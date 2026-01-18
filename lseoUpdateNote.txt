@@ -1,4 +1,6 @@
+- Added reel post with AI Label
 - Fixed photo post
+- Fixed add/confirm friends
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
