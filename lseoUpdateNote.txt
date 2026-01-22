@@ -1,9 +1,5 @@
-- Fixed switching profile stuck (please update the Facebook app)
-- Fixed reel post AI label
-- Fixed Bulk Edit AI label
-- Fixed caption mixing in photo post
-- Fixed backup account file
-- Random Marketplace location and check items
+- Fixed stuck at Confirming profile
+- Fixed reel post popup
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
