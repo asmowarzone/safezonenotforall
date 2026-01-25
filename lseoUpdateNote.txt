@@ -1,5 +1,4 @@
-- Fixed stuck at Confirming profile
-- Fixed reel post popup
+- Fixed Facebook new UI
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
