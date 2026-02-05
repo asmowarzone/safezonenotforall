@@ -1,6 +1,7 @@
-- Fixed create new page (new UI)
+- Added set page audience Age Restrictions
+- Added set page Blocklist Filter (Hide comment)
+- Fixed turn on Professional mode
+- Fixed delete page posts (Testing)
 - Fixed known issues
-
-🗝️ Update FB app to latest version could help creating page. (Maybe)
 
 FB is updating its new UI, some unknown issue might randomly occur
