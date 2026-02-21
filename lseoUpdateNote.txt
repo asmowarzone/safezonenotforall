@@ -1,7 +1,5 @@
-- Added set page audience Age Restrictions
-- Added set page Blocklist Filter (Hide comment)
-- Fixed turn on Professional mode
-- Fixed delete page posts (Testing)
+- Added set page Country Restrictions
+- Reopen Facebook when stuck in reel processing
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
