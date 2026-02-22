@@ -1,6 +1,6 @@
 {
   "Pro":{
-    "1.5.49": "1ocyD7eKfYL0yTr97IHn9M_v_Q3j6BpuB",
+    "1.5.50": "1ouMyBKrsyZHHDP5RfoXyTMNnhiOraNjq",
     "1.5.48": "1VCo1-KYzRXt5Md54l7GQTxfbIKB0xpEQ",
     "1.5.47": "1TflrvQ1IQx7Z0jSo9TJMQ39aem7RpbkK",
     "1.5.46": "1kpdT5GPDd8OmRNrjiSArDkmJKYlaluKp",

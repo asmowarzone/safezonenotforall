@@ -1,4 +1,5 @@
 - Added set page Country Restrictions
+- Added login device info (Support backup device)
 - Reopen Facebook when stuck in reel processing
 - Fixed known issues
 
