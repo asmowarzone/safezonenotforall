@@ -1,6 +1,6 @@
-- Added set page Country Restrictions
-- Added login device info (Support backup device)
-- Reopen Facebook when stuck in reel processing
+- Reel post improvement
+- UI/UX
+- Performance
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
