@@ -1,4 +1,6 @@
-- Reel post improvement
+- Fixed delete page in Auto Post
+- Fixed set profile picture
+- Fixed set workplace
 - UI/UX
 - Performance
 - Fixed known issues
