@@ -1,7 +1,5 @@
-- Fixed delete page in Auto Post
-- Fixed set profile picture
-- Fixed set workplace
 - UI/UX
+- Check live UID improve
 - Performance
 - Fixed known issues
 
