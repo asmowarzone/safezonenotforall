@@ -1,6 +1,6 @@
-- Fixed restore account backup file
-- UI/UX
-- Performance
+- Fixed get creation date
+- Fixed post share to groups
+- Optimize windows performance
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
