@@ -1,6 +1,6 @@
-- Fixed get creation date
-- Fixed post share to groups
-- Optimize windows performance
+- Fixed the posting process
+- Fixed commenting on the post
+- Fixed dashboard/monetize record
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur

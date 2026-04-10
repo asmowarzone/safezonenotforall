@@ -1,17 +1,12 @@
 {
   "Pro":{
+    "1.5.56": "1ngfOZiVTlLb6c4MklcW1u2YRP9cXynq7",
     "1.5.55": "1jk8aB3JBfkmL7OHymktlUv5IFsV4o5ws",
     "1.5.54": "1oZ9PqyFtaTJ-K_tU97VRuMy6cy9jJli4",
     "1.5.52": "1iy-xTq_Ak92NuNMZ5lLnkSlZH1I_gNh5",
     "1.5.51": "1nqmdmxOdj86_xSD5KLCb5WYCKbqPd6Ia",
-    "1.5.50": "1zA2Nx3kgE58IDddduXj4LVesHJvbsgWj",
-    "1.5.48": "1VCo1-KYzRXt5Md54l7GQTxfbIKB0xpEQ",
-    "1.5.47": "1TflrvQ1IQx7Z0jSo9TJMQ39aem7RpbkK",
-    "1.5.46": "1kpdT5GPDd8OmRNrjiSArDkmJKYlaluKp",
-    "1.5.45": "1niLvJy1elNwuD8teC4hI7eaNqpG0dQi6",
-    "1.5.44": "1mgMgRoDExRhX8o5pS9T6V5oHxf7eQvEu",
-    "1.5.43": "1x__HwglTv0cScVwHvh28Vuw_ZokQb6U6"
+    "1.5.50": "1zA2Nx3kgE58IDddduXj4LVesHJvbsgWj"
       },
-  "news_code": "snapkee003",
+  "news_code": "snapkee002",
   "news_link": "https://www.bobdevteam.com/snapkee"
 }
