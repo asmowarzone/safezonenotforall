@@ -1,6 +1,6 @@
-- Fixed the posting process
-- Fixed commenting on the post
-- Fixed dashboard/monetize record
+- Fixed post reel click on Add to playlist
+- Fixed share reel
+- Fixed duplicate file
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
