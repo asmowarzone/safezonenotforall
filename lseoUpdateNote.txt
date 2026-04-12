@@ -1,6 +1,6 @@
-- Fixed post reel click on Add to playlist
-- Fixed share reel
-- Fixed duplicate file
+- Add audio to reel post (Beta)
+- Fixed the posting process
+- Fixed Facebook not installed
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
