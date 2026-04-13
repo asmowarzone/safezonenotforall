@@ -1,5 +1,4 @@
-- Add audio to video post
-- Add audio to story post
+- Fixed no caption post, while enabled Delete file after post
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
