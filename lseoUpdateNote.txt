@@ -1,6 +1,5 @@
-- Add audio to reel post (Beta)
-- Fixed the posting process
-- Fixed Facebook not installed
+- Add audio to video post
+- Add audio to story post
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
