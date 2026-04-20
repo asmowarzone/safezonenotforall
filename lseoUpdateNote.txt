@@ -1,5 +1,6 @@
-- Fixed failed switch profile
-- Fixed 'str' object is not callable
+- Added post add Audio to Bulk Edit
+- Fixed error script
+- Fixed switch profile (watchout for your internet)
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
