@@ -1,6 +1,5 @@
-- Added post add Audio to Bulk Edit
-- Fixed error script
-- Fixed switch profile (watchout for your internet)
+- Fixed error profile list
+- Fixed running force stop
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
