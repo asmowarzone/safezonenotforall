@@ -1,5 +1,5 @@
-- Add runningun again in Logs Viewer
-- Fixed failed switch profile confirmation
+- Fixed add Audio in schedule post
+- Fixed Run again (post) in Logs Viewer
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
