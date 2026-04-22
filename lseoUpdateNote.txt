@@ -1,5 +1,5 @@
-- Fixed error profile list
-- Fixed running force stop
+- Add runningun again in Logs Viewer
+- Fixed failed switch profile confirmation
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
