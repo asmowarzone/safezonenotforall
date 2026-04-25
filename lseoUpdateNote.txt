@@ -1,5 +1,6 @@
-- Fixed not moving photo to .posted
-- Fixed Log viewer link to Auto Post
+- Improved the switch profile failed
+- Fixed upload waiting too long
+- Fixed pull profile name
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
