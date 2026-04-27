@@ -1,6 +1,6 @@
 - Improved the switch profile failed
-- Fixed upload waiting too long
-- Fixed pull profile name
+- Fixed page deletion
+- Fixed backup login session
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
