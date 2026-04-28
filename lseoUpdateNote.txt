@@ -1,4 +1,5 @@
 - Improved the switch profile failed
+- Fixed schedule post not start
 - Fixed page deletion
 - Fixed backup login session
 - Fixed known issues
