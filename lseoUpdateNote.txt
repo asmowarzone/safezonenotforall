@@ -1,7 +1,7 @@
-- Improved the switch profile failed
-- Fixed schedule post not start
-- Fixed page deletion
-- Fixed backup login session
+- Added Reviews page/profile
+- Fixed duplicate file
+- Fixed failed copy file to device (some corrupt files still failed)
+- Fixed schedule post type
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
