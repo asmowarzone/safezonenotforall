@@ -1,7 +1,5 @@
-- Added Reviews page/profile
-- Fixed duplicate file
-- Fixed failed copy file to device (some corrupt files still failed)
-- Fixed schedule post type
+- Fixed Block IP
+- Fixed Add new profile picture
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
