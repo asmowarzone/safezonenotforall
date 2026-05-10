@@ -1,5 +1,6 @@
-- Fixed Block IP
-- Fixed Add new profile picture
+- New, post status (txt file or AI generate)
+- Fixed freeze UI in Post Table
+- Fixed switch page name has '&'
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
