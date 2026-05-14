@@ -1,7 +1,5 @@
-- Added check CM Criteria
+- Fixed share to group
 - Fixed collaborator 'Done' button
-- Fixed comment on Reel
-- Fixed post video 'Not now' pop-up
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
