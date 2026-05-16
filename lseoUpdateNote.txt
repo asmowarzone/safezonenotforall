@@ -1,5 +1,6 @@
 - Fixed switch profile (profile has no page)
 - Fixed post video
+- Fixed select reel folder
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
