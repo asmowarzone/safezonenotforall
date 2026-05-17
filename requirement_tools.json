@@ -7,6 +7,13 @@
         "rarpath": "utilities/tools/7z.rar"
     },
     {
+        "name": "adb",
+        "version": "34.0.5",
+        "download_id": "1ksJVei9SW3v9a0bA91ccdwSzsa_t78X5",
+        "filepath": "utilities/adb/adb.exe",
+        "rarpath": "utilities/utilities/adb.rar"
+    },
+    {
         "name": "ffprobe",
         "version": "2026-05-13-git-a327bc0561-full_build-www.gyan.dev",
         "download_id": "1Ck9P7IUS9FEHj82QITeb8i2fuFtZCFzc",
