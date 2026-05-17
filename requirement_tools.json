@@ -11,7 +11,7 @@
         "version": "34.0.5",
         "download_id": "1ksJVei9SW3v9a0bA91ccdwSzsa_t78X5",
         "filepath": "utilities/adb/adb.exe",
-        "rarpath": "utilities/utilities/adb.rar"
+        "rarpath": "utilities/adb.rar"
     },
     {
         "name": "ffprobe",
