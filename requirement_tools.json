@@ -5,5 +5,19 @@
         "download_id": "1uR-D7eNaGrgFf5XBw763HfNBOBmwzfWF",
         "filepath": "utilities/tools/7z/7z.exe",
         "rarpath": "utilities/tools/7z.rar"
+    },
+    {
+        "name": "ffprobe",
+        "version": "2026-05-13-git-a327bc0561-full_build-www.gyan.dev",
+        "download_id": "1Ck9P7IUS9FEHj82QITeb8i2fuFtZCFzc",
+        "filepath": "utilities/tools/ffprobe/ffprobe.exe",
+        "rarpath": "utilities/tools/ffprobe.rar"
+    },
+    {
+        "name": "ffmpeg",
+        "version": "2026-05-13-git-a327bc0561-full_build-www.gyan.dev",
+        "download_id": "1gk5Zz7Wt7fIz6MWc6dOXo7TXQ2Ueh9ao",
+        "filepath": "utilities/tools/ffmpeg/ffmpeg.exe",
+        "rarpath": "utilities/tools/ffmpeg.rar"
     }
 ]
