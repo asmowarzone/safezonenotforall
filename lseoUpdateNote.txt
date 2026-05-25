@@ -1,5 +1,6 @@
-- Fixed offline after apply configuration
-- Fixed load screen exit
+- Fixed set professional mode
+- Fixed create page
+- Add report logs
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
