@@ -26,5 +26,12 @@
         "download_id": "1gk5Zz7Wt7fIz6MWc6dOXo7TXQ2Ueh9ao",
         "filepath": "utilities/tools/ffmpeg/ffmpeg.exe",
         "rarpath": "utilities/tools/ffmpeg.rar"
+    },
+    {
+        "name": "esl",
+        "version": "A",
+        "download_id": "1xUHK-OPJWyh-nznhucvnUNXDwwblZwv1",
+        "filepath": "utilities/tools/esl/esl.exe",
+        "rarpath": "utilities/tools/esl.rar"
     }
 ]
