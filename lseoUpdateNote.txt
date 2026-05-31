@@ -1,6 +1,7 @@
 - AI caption if post has no caption (promt from status post)
-- Fixed LDPlayer 9 keyboard switch
+- Fixed photo SHARE button
 - Added maximum windows optimization settings
+- Fixed LDPlayer 9 keyboard switch
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
