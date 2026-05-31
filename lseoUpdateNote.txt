@@ -1,6 +1,6 @@
-- Support LDPlayer 14 (beta)
-- Fixed create page
-- Fixed the post 'Not now' pop-up
+- AI caption if post has no caption (promt from status post)
+- Fixed LDPlayer 9 keyboard switch
+- Added maximum windows optimization settings
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
