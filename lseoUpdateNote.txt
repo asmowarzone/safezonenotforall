@@ -1,6 +1,6 @@
-- Fixed set professional mode
+- Support LDPlayer 14 (beta)
 - Fixed create page
-- Add report logs
+- Fixed the post 'Not now' pop-up
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
