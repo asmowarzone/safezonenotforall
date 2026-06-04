@@ -1,5 +1,7 @@
-- LDPlayer 14 Allow file permission
-- Fixed status background image
+- Temporary Version 
+- License duration is temporary
+- Fixed popup notification LD 14
+- Fixed post status
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
