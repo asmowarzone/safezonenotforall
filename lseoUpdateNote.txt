@@ -1,7 +1,6 @@
-- Temporary Version 
-- License duration is temporary
-- Fixed popup notification LD 14
-- Fixed post status
+- Fixed login with LDPlayer 14 
+- Fixed post reel, no button
+- Fixed check duplicate file
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
