@@ -1,6 +1,6 @@
-- Fixed login with LDPlayer 14 
-- Fixed post reel, no button
-- Fixed check duplicate file
+- Fixed reel post, Facebook newer version
+- Fixed retry switch profile
+- Fixed check dashboard, monetization tools
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
