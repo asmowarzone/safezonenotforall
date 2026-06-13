@@ -7,7 +7,7 @@
             "https://raw.githubusercontent.com/asmowarzone/safezonenotforall/main/lseo/utilities/tools/7z/7z(26.01)/7z.exe"
         ],
         "filepath": "utilities/tools/7z/7z.exe",
-        "rarpath": "utilities/tools/7z.rar"
+        "rarpath": ""
     },
     {
         "name": "7z_dll",
@@ -16,8 +16,8 @@
         "download_id_list": [
             "https://raw.githubusercontent.com/asmowarzone/safezonenotforall/main/lseo/utilities/tools/7z/7z(26.01)/7z.dll"
         ],
-        "filepath": "utilities/tools/7z/7z.exe",
-        "rarpath": "utilities/tools/7z.rar"
+        "filepath": "utilities/tools/7z/7z.dll",
+        "rarpath": ""
     },
     {
         "name": "adb",
