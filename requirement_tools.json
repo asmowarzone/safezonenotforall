@@ -1,8 +1,21 @@
 [
     {
-        "name": "7z",
-        "version": "26.01",
-        "download_id": "1uR-D7eNaGrgFf5XBw763HfNBOBmwzfWF",
+        "name": "7z_exe",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://raw.githubusercontent.com/asmowarzone/safezonenotforall/main/lseo/utilities/tools/7z/7z(26.01)/7z.exe"
+        ],
+        "filepath": "utilities/tools/7z/7z.exe",
+        "rarpath": "utilities/tools/7z.rar"
+    },
+    {
+        "name": "7z_dll",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://raw.githubusercontent.com/asmowarzone/safezonenotforall/main/lseo/utilities/tools/7z/7z(26.01)/7z.dll"
+        ],
         "filepath": "utilities/tools/7z/7z.exe",
         "rarpath": "utilities/tools/7z.rar"
     },
