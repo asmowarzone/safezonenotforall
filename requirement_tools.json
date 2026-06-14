@@ -20,31 +20,53 @@
         "rarpath": ""
     },
     {
+        "name": "BobUpdater",
+        "version": "1.7",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/t1.0/updater.1.7.exe"
+        ],
+        "filepath": "bobupdater.exe",
+        "rarpath": ""
+    },
+    {
         "name": "adb",
         "version": "34.0.5",
-        "download_id": "1ksJVei9SW3v9a0bA91ccdwSzsa_t78X5",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/t1.0/adb.34.0.5.rar"
+        ],
         "filepath": "utilities/adb/adb.exe",
         "rarpath": "utilities/adb.rar"
     },
     {
         "name": "ffprobe",
         "version": "2026-05-13-git-a327bc0561-full_build-www.gyan.dev",
-        "download_id": "1Ck9P7IUS9FEHj82QITeb8i2fuFtZCFzc",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/t1.0/ffprobe.exe"
+        ],
         "filepath": "utilities/tools/ffprobe/ffprobe.exe",
-        "rarpath": "utilities/tools/ffprobe.rar"
+        "rarpath": ""
     },
     {
         "name": "ffmpeg",
         "version": "2026-05-13-git-a327bc0561-full_build-www.gyan.dev",
-        "download_id": "1gk5Zz7Wt7fIz6MWc6dOXo7TXQ2Ueh9ao",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/t1.0/ffmpeg.exe"
+        ],
         "filepath": "utilities/tools/ffmpeg/ffmpeg.exe",
-        "rarpath": "utilities/tools/ffmpeg.rar"
+        "rarpath": ""
     },
     {
         "name": "esl",
         "version": "A",
         "download_id": "1xUHK-OPJWyh-nznhucvnUNXDwwblZwv1",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/t1.0/esl.exe"
+        ],
         "filepath": "utilities/tools/esl/esl.exe",
-        "rarpath": "utilities/tools/esl.rar"
+        "rarpath": ""
     }
 ]
