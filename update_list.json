@@ -1,14 +1,15 @@
 {
     "Pro": {
+        "1.6.02": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.02/V1.6.02.rar",
+            "1x9dE_9TaCDokKYbc--BmVgt-Iw5MgvVb"
+        ],
         "1.6.01": [
             "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.01/V1.6.01.rar",
             "1-pxHquKukAWttGxVujZH3114CsAL1j7D"
         ],
         "1.6.00": [
             "1O7V5H56ZphhOyl3nr4SQc-lW8sp_LZ5d"
-        ],
-        "1.5.85": [
-            "1OuqERFF6DEP3EbQ7M9Go1OYOgTZJwQVX"
         ]
     },
     "news_code": "snapkee002",

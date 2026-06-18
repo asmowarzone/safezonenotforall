@@ -1,5 +1,6 @@
 - Fixed reel post, Facebook newer version
 - Fixed retry switch profile
+- Fixed active switch profile
 - Fixed check dashboard, monetization tools
 - Fixed known issues
 
