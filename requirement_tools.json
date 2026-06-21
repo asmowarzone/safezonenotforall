@@ -68,5 +68,15 @@
         ],
         "filepath": "utilities/tools/esl/esl.exe",
         "rarpath": ""
+    },
+    {
+        "name": "aria2c",
+        "version": "A",
+        "download_id": "1xUHK-OPJWyh-nznhucvnUNXDwwblZwv1",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/t1.0/aria2c.exe"
+        ],
+        "filepath": "utilities/tools/aria2c/aria2c.exe",
+        "rarpath": ""
     }
 ]
