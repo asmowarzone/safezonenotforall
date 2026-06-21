@@ -20,6 +20,26 @@
         "rarpath": ""
     },
     {
+        "name": "boto3",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/t1.0/boto3.rar"
+        ],
+        "filepath": "boto3",
+        "rarpath": "boto3.rar"
+    },
+    {
+        "name": "botocore",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/t1.0/botocore.rar"
+        ],
+        "filepath": "botocore",
+        "rarpath": "botocore.rar"
+    },
+    {
         "name": "BobUpdater",
         "version": "1.7",
         "download_id": "",
