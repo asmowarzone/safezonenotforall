@@ -1,7 +1,7 @@
-- Fixed reel post, Facebook newer version
-- Fixed retry switch profile
-- Fixed active switch profile
-- Fixed check dashboard, monetization tools
+- Fixed create page
+- Fixed Active 'force stop'
+- Fixed Active Marketplace
+- Fixed share post to group
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
