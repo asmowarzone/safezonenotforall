@@ -40,6 +40,16 @@
         "rarpath": "botocore.rar"
     },
     {
+        "name": "reverse_geocode",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/t1.0/reverse_geocode.rar"
+        ],
+        "filepath": "reverse_geocode",
+        "rarpath": "reverse_geocode.rar"
+    },
+    {
         "name": "BobUpdater",
         "version": "1.7",
         "download_id": "",
