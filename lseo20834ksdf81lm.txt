@@ -1,8 +1,7 @@
 {
   "Pro":{
     "1.6.04": "1pnF_Drw6qXbZ9Bk0mIlLFtRxNdT4BfUi",
-    "1.6.03": "17g_h999iIdUcmovmlZ-k-zyJz5Nrjarg",
-    "1.6.02": "1PCiPRHOh7DUp-fN5sJUhquWd6u8Apchr",
+    "1.6.02": "1sfbP6pK5LhBVeJUQzBMXXg7F7A9QL2wk",
     "1.6.01": "1-pxHquKukAWttGxVujZH3114CsAL1j7D",
     "1.6.00": "1O7V5H56ZphhOyl3nr4SQc-lW8sp_LZ5d"
       },
