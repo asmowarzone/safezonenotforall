@@ -1,3 +1,4 @@
+- Fixed Page/Post table
 - Fixed create page
 - Fixed Active 'force stop'
 - Fixed Active Marketplace
