@@ -3,7 +3,7 @@
     "1.6.04": "1pnF_Drw6qXbZ9Bk0mIlLFtRxNdT4BfUi",
     "1.6.02": "1sfbP6pK5LhBVeJUQzBMXXg7F7A9QL2wk",
     "1.6.01": "15v8kdklzoQz0T1aqciNBZ0A1OWXW8gS2",
-    "1.6.00": "1O7V5H56ZphhOyl3nr4SQc-lW8sp_LZ5d"
+    "1.6.00": "13_NgWuwLeVzz2G5v7G4a3Iae32eP61mh"
       },
   "news_code": "snapkee002",
   "news_link": "https://www.bobdevteam.com/snapkee"
