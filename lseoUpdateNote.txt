@@ -1,8 +1,7 @@
-- Fixed Page/Post table
-- Fixed create page
-- Fixed Active 'force stop'
-- Fixed Active Marketplace
-- Fixed share post to group
+- Record profile Date of birth
+- Fixed clear Facebook user data
+- Fixed clear LDPlayer vms (9/14)
+- Fixed post story add audio
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
