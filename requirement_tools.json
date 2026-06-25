@@ -108,5 +108,45 @@
         ],
         "filepath": "utilities/tools/aria2c/aria2c.exe",
         "rarpath": ""
+    },
+    {
+        "name": "ADBKeyboard",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/a1.0/ADBKeyboard.apk"
+        ],
+        "filepath": "utilities/tools/apk/ADBKeyboard.apk",
+        "rarpath": ""
+    },
+    {
+        "name": "BobIP",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/a1.0/BobIP.apk"
+        ],
+        "filepath": "utilities/tools/apk/BobIP.apk",
+        "rarpath": ""
+    },
+    {
+        "name": "BobLite",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/a1.0/Boblite.apk"
+        ],
+        "filepath": "utilities/tools/apk/Boblite.apk",
+        "rarpath": ""
+    },
+    {
+        "name": "FakeGPS",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/a1.0/FakeGPS.apk"
+        ],
+        "filepath": "utilities/tools/apk/FakeGPS.apk",
+        "rarpath": ""
     }
 ]

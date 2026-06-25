@@ -1,3 +1,4 @@
+- Fixed Facebook not open
 - Record profile Date of birth
 - Fixed clear Facebook user data
 - Fixed clear LDPlayer vms (9/14)
