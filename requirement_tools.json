@@ -116,7 +116,7 @@
         "download_id_list": [
             "https://github.com/asmowarzone/safezonenotforall/releases/download/a1.0/ADBKeyboard.apk"
         ],
-        "filepath": "utilities/tools/apk/ADBKeyboard.apk",
+        "filepath": "utilities/apk/ADBKeyboard.apk",
         "rarpath": ""
     },
     {
@@ -126,7 +126,7 @@
         "download_id_list": [
             "https://github.com/asmowarzone/safezonenotforall/releases/download/a1.0/BobIP.apk"
         ],
-        "filepath": "utilities/tools/apk/BobIP.apk",
+        "filepath": "utilities/apk/BobIP.apk",
         "rarpath": ""
     },
     {
@@ -136,7 +136,7 @@
         "download_id_list": [
             "https://github.com/asmowarzone/safezonenotforall/releases/download/a1.0/Boblite.apk"
         ],
-        "filepath": "utilities/tools/apk/Boblite.apk",
+        "filepath": "utilities/apk/Boblite.apk",
         "rarpath": ""
     },
     {
@@ -146,7 +146,7 @@
         "download_id_list": [
             "https://github.com/asmowarzone/safezonenotforall/releases/download/a1.0/FakeGPS.apk"
         ],
-        "filepath": "utilities/tools/apk/FakeGPS.apk",
+        "filepath": "utilities/apk/FakeGPS.apk",
         "rarpath": ""
     }
 ]
