@@ -148,5 +148,25 @@
         ],
         "filepath": "utilities/apk/FakeGPS.apk",
         "rarpath": ""
+    },
+    {
+        "name": "Facebook",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://d.apkpure.com/b/APK/com.facebook.katana?versionCode=472224752"
+        ],
+        "filepath": "utilities/apk/user/facebook.apk",
+        "rarpath": ""
+    },
+    {
+        "name": "Instagram lite",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://d.apkpure.com/b/APK/com.instagram.lite?versionCode=858627962&nc=armeabi-v7a&sv=21"
+        ],
+        "filepath": "utilities/apk/user/instagram.apk",
+        "rarpath": ""
     }
 ]

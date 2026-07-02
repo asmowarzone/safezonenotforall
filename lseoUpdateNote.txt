@@ -1,8 +1,8 @@
-- Fixed Facebook not open
-- Record profile Date of birth
-- Fixed clear Facebook user data
+- Fixed set info account/page
+- Fixed post photo
+- Fixed post video
+- Fixed submit 180 days
 - Fixed clear LDPlayer vms (9/14)
-- Fixed post story add audio
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
