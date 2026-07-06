@@ -1,8 +1,7 @@
-- Fixed set info account/page
-- Fixed post photo
+- Fixed enable 2FA
 - Fixed post video
-- Fixed submit 180 days
-- Fixed clear LDPlayer vms (9/14)
+- Fixed check-ins without AI API
+- Fixed active loop
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
