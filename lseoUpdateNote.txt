@@ -1,7 +1,5 @@
-- Fixed enable 2FA
-- Fixed post video
-- Fixed check-ins without AI API
-- Fixed active loop
+- Fixed photo post
+- Fixed LDPlayer info
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
