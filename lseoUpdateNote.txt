@@ -1,5 +1,8 @@
-- Fixed posts run
-- Fixed performance
+- Improved reel post
+- Fixed set Blocklist filter
+- Fixed set Age restriction
+- Fixed add music
+- Fixed LDPlayer back/restore info
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
