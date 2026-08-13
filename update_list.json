@@ -1,5 +1,9 @@
 {
     "Pro": {
+        "1.6.15": [
+            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.15/V1.6.15.rar",
+            "1XdEwFbh1V3kH4MdHaJqSd8v70NoaZH2x"
+        ],
         "1.6.14": [
             "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.14/V1.6.14.rar",
             "1Rk_Xn3mPK0RbtcPbTajKIj43u5EDdO4C"
@@ -19,44 +23,8 @@
         "1.6.10": [
             "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.10/V1.6.10.rar",
             "1EWgzbKZMtBF2APlEcQzoZtO4dP-2YrLl"
-        ],
-        "1.6.09": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.09/V1.6.09.rar",
-            "1_G9F4Pjc0qsxHEeszUkcd9gNiQZHsXwk"
-        ],
-        "1.6.08": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.08/V1.6.08.rar",
-            "1q9zA7BiYPItQZ-jzwyrkDCBclsC5tXIl"
-        ],
-        "1.6.07": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.07/V1.6.07.rar",
-            "1uHF946aF5n3w0-l0hhXietjvUs5OiXxg"
-        ],
-        "1.6.06": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.06/V1.6.06.rar",
-            "1oM5bHoPI3d1GzV8HeDUBOzhLUu9ddN_C"
-        ],
-        "1.6.05": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.05/V1.6.05.rar",
-            "1aU_mNFFEaNAnilc1wGzlrqHmT8TeGgFY"
-        ],
-        "1.6.04": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.04/V1.6.04.rar",
-            "1pnF_Drw6qXbZ9Bk0mIlLFtRxNdT4BfUi"
-        ],
-        "1.6.02": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.02/V1.6.02_2.rar",
-            "1sfbP6pK5LhBVeJUQzBMXXg7F7A9QL2wk"
-        ],
-        "1.6.01": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.01/V1.6.01_2.rar",
-            "15v8kdklzoQz0T1aqciNBZ0A1OWXW8gS2"
-        ],
-        "1.6.00": [
-            "13_NgWuwLeVzz2G5v7G4a3Iae32eP61mh",
-            "19d09PiAvdF70AhHKXqzRCopCeG1RNG-B"
         ]
     },
-    "news_code": "snapkee002",
+    "news_code": "snapkee003",
     "news_link": "https://www.bobdevteam.com/snapkee"
 }
