@@ -1,5 +1,5 @@
-- Fixed deleting all posts
-- Improved scan page name
+- Fixed view post (Active/Run from Account Manager)
+- Added "Remove all pages" (right-click on page dropdown)
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
