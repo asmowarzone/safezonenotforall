@@ -1,5 +1,5 @@
-- Fixed view post (Active/Run from Account Manager)
-- Added "Remove all pages" (right-click on page dropdown)
+- Fixed follow/unfollow pages/profiles
+- Fixed add/follow friends
 - Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
