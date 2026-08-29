@@ -1,5 +1,7 @@
-- Fixed follow/unfollow pages/profiles
-- Fixed add/follow friends
-- Fixed known issues
+> Added remove contacts (Pending, Phone, Email)
+> Fixed AI Groq model
+> Fixed delete post
+> Fixed viewing posts in Active
+> Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
