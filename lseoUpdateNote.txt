@@ -1,7 +1,10 @@
-> Added remove contacts (Pending, Phone, Email)
-> Fixed AI Groq model
-> Fixed delete post
-> Fixed viewing posts in Active
+> Added delete all received emails (Email Manager)
+> Added select Emulator display resolution (Beta)
+> Fixed check for running devices (Refresh)
+> BobIP II 
+  - Auto mock location following IP address
+  - Spoofing device info (LPosed only)
+  - Read current device info (root)
 > Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
