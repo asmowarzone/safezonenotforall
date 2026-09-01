@@ -130,6 +130,16 @@
         "rarpath": ""
     },
     {
+        "name": "BobIP2",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/bobdevteam/bobprime/releases/download/bobip/BobIP2.apk"
+        ],
+        "filepath": "utilities/apk/BobIP2.apk",
+        "rarpath": ""
+    },
+    {
         "name": "BobLite",
         "version": "A",
         "download_id": "",
