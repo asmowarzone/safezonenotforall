@@ -60,6 +60,16 @@
         "rarpath": ""
     },
     {
+        "name": "ocr_probe_cli",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/bobdevteam/bobprime/releases/download/ocr_cli/ocr_probe_cli.exe"
+        ],
+        "filepath": "ocr_probe_cli.exe",
+        "rarpath": ""
+    },
+    {
         "name": "adb",
         "version": "34.0.5",
         "download_id": "",
