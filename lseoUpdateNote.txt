@@ -1,6 +1,6 @@
-> Added Check Dashboard options
-> Fixed running Join Groups in Page Manager
-> BobIP II runs at Startup
+> Fixed delete posts
+> Options to delete posts (All, Reels, Photos)
+> Fixed deleting posts stopping at 15 minutes
 > Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
