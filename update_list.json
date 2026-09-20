@@ -1,5 +1,9 @@
 {
     "Pro": {
+        "1.6.23": [
+            "https://github.com/bobdevteam/bobprime/releases/download/V1.6.23/V1.6.23.rar",
+            "1RgFXT0FEsrFbkmr5jV13ZC37gl1gk17i"
+        ],
         "1.6.22": [
             "https://github.com/bobdevteam/bobprime/releases/download/V1.6.22/V1.6.22.rar",
             "13MA0Kqu57KQQlDGT1s-lRFScc5oRlMyh"
@@ -27,32 +31,8 @@
         "1.6.16": [
             "https://github.com/bobdevteam/bobprime/releases/download/V1.6.16/V1.6.16.rar",
             "16TbHPhJeyLRMyEbnNrui8XlVkwHiNH8t"
-        ],
-        "1.6.15": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.15/V1.6.15.rar",
-            "1XdEwFbh1V3kH4MdHaJqSd8v70NoaZH2x"
-        ],
-        "1.6.14": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.14/V1.6.14.rar",
-            "1Rk_Xn3mPK0RbtcPbTajKIj43u5EDdO4C"
-        ],
-        "1.6.13": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.13/V1.6.13.rar",
-            "1VO7prq5wuwTiQAzpxM3USI49lHqsFI-1"
-        ],
-        "1.6.12": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.12/V1.6.12.rar",
-            "1tQPiGi7HCu6NCY-6Sc-FpJH0ER2xhVNF"
-        ],
-        "1.6.11": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.11/V1.6.11.rar",
-            "16vepFndWrCWKjp3FE_5G6fuH8OX-vHOp"
-        ],
-        "1.6.10": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/v1.6.10/V1.6.10.rar",
-            "1EWgzbKZMtBF2APlEcQzoZtO4dP-2YrLl"
         ]
     },
-    "news_code": "snapkee003",
+    "news_code": "snapkee004",
     "news_link": "https://www.bobdevteam.com/snapkee"
 }
