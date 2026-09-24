@@ -1,5 +1,5 @@
-> Added Add audio/music settings (Search & Volume)
-> Fixed Share group post (Cross post to group)
+> Improve post comments
+> Improve deleting posts
 > Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
