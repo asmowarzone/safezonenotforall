@@ -1,5 +1,5 @@
-> Improve post comments
-> Improve deleting posts
+> Improve clear Disk (not losing apps)
+> Improve clear vms to broken LDPlayer
 > Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
