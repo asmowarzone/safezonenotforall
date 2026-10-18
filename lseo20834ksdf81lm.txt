@@ -10,6 +10,6 @@
     "1.6.17": "1i5YeSViEMJHY4-jwygRdOMxQTF_RQxK",
     "1.6.16": "16TbHPhJeyLRMyEbnNrui8XlVkwHiNH8t"
       },
-  "news_code": "snapkee003",
+  "news_code": "snapkee001",
   "news_link": "https://www.bobdevteam.com/snapkee"
 }
