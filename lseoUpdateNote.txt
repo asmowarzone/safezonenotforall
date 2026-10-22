@@ -1,6 +1,7 @@
 > New* Schedule posts
 > Fixed Story add link
 > Fixed Reel file selection
+> Fixed Reel post error Schedule
 > Improved posting process
 > Fixed known issues
 
