@@ -1,8 +1,5 @@
-> New* Schedule posts
-> Fixed Story add link
-> Fixed Reel file selection
-> Fixed Reel post error Schedule
-> Improved posting process
+> New* scheduled posts (Date and Today)
+> Fixed Post again from Logs viewer
 > Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur

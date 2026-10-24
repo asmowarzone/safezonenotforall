@@ -1,5 +1,9 @@
 {
     "Pro": {
+        "1.6.28": [
+            "https://github.com/bobdevteam/bobprime/releases/download/V1.6.28/V1.6.28.rar",
+            "1iu65ZVAkKQ753J9xe6XXv0czPdanskwP"
+        ],
         "1.6.27": [
             "https://github.com/bobdevteam/bobprime/releases/download/V1.6.27/V1.6.27.rar",
             "1vT0jPhfV6XwYEveF7i32u4YAamwiAd4y"
@@ -31,10 +35,6 @@
         "1.6.19": [
             "https://github.com/bobdevteam/bobprime/releases/download/V1.6.19/V1.6.19.rar",
             "1FK7EIeNX6rr_3bOrJLmpRkC1CZ2LBvKo"
-        ],
-        "1.6.18": [
-            "https://github.com/bobdevteam/bobprime/releases/download/V1.6.18/V1.6.18.rar",
-            "1gCdkFZPPIDKIksX2mBMceWEFtnRbEaHH"
         ]
     },
     "news_code": "snapkee006",
