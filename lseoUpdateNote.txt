@@ -1,5 +1,6 @@
-> New* scheduled posts (Date and Today)
-> Fixed Post again from Logs viewer
+> Fixed auto-set timezone
+> Fixed scheduled post set minute to '00'
+> Fixed LDPlayer groups
 > Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
