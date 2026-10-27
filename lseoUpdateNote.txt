@@ -1,6 +1,6 @@
-> Fixed auto-set timezone
-> Fixed scheduled post set minute to '00'
-> Fixed LDPlayer groups
+> Export account info (device, profile picture)
+> Copy profile picture from table
+> Fixed Logs viewer run post again (Reel)
 > Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
