@@ -196,8 +196,8 @@
         "download_id_list": [
             "https://github.com/bobdevteam/bobprime/releases/download/wvii1.0.0/WVII.rar"
         ],
-        "filepath": "USERPATH/tools/WVII/msedgewebview2.exe",
-        "rarpath": "USERPATH/tools/WVII.rar"
+        "filepath1": "USERPATH/tools/WVII/msedgewebview2.exe",
+        "rarpath1": "USERPATH/tools/WVII.rar"
     },
     {
         "name": "WVII_dll",
