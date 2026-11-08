@@ -1,6 +1,7 @@
-> Export account info (device, profile picture)
-> Copy profile picture from table
-> Fixed Logs viewer run post again (Reel)
-> Fixed known issues
+> Fixed enable 2FA in the new UI
+> Improved submit suspended 180 days
+> Improved Reel post new UI
+> Improved create page
+> Fixed login
 
 FB is updating its new UI, some unknown issue might randomly occur
