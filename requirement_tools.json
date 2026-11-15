@@ -124,19 +124,9 @@
         "version": "A",
         "download_id": "",
         "download_id_list": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/a1.0/ADBKeyboard.apk"
+            "https://github.com/bobdevteam/bobprime/releases/download/apk1.0.0/ADBKeyboard.apk"
         ],
         "filepath": "utilities/apk/ADBKeyboard.apk",
-        "rarpath": ""
-    },
-    {
-        "name": "BobIP",
-        "version": "A",
-        "download_id": "",
-        "download_id_list": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/a1.0/BobIP.apk"
-        ],
-        "filepath": "utilities/apk/BobIP.apk",
         "rarpath": ""
     },
     {
@@ -144,7 +134,7 @@
         "version": "A",
         "download_id": "",
         "download_id_list": [
-            "https://github.com/bobdevteam/bobprime/releases/download/bobip/BobIP2.apk"
+            "https://github.com/bobdevteam/bobprime/releases/download/apk1.0.0/BobIP2_2.5.4.apk"
         ],
         "filepath": "utilities/apk/BobIP2.apk",
         "rarpath": ""
@@ -160,13 +150,23 @@
         "rarpath": ""
     },
     {
-        "name": "FakeGPS",
+        "name": "OpenVPN",
         "version": "A",
         "download_id": "",
         "download_id_list": [
-            "https://github.com/asmowarzone/safezonenotforall/releases/download/a1.0/FakeGPS.apk"
+            "https://github.com/bobdevteam/bobprime/releases/download/apk1.0.0/OpenVPN_0.7.69.xapk"
         ],
-        "filepath": "utilities/apk/FakeGPS.apk",
+        "filepath": "utilities/apk/OpenVPN.xapk",
+        "rarpath": ""
+    },
+    {
+        "name": "Surfboard",
+        "version": "A",
+        "download_id": "",
+        "download_id_list": [
+            "https://github.com/bobdevteam/bobprime/releases/download/apk1.0.0/Surfboard_2.25.3.apk"
+        ],
+        "filepath": "utilities/apk/Surfboard.apk",
         "rarpath": ""
     },
     {
