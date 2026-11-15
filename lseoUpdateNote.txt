@@ -1,7 +1,7 @@
-> Fixed enable 2FA in the new UI
-> Improved submit suspended 180 days
-> Improved Reel post new UI
-> Improved create page
-> Fixed login
+> Support OpenVPN (auto-install app & connection)
+> Support Proxy (Auto-install app & connection)
+> Improved reel post select file
+> Improved adding story link
+> Fixed known issues
 
 FB is updating its new UI, some unknown issue might randomly occur
