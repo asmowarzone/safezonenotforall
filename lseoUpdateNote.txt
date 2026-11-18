@@ -1,6 +1,5 @@
-> Support OpenVPN (auto-install app & connection)
-> Support Proxy (Auto-install app & connection)
-> Improved reel post select file
+> Fixed selecting Reel file
+> Fixed creating page
 > Improved adding story link
 > Fixed known issues
 

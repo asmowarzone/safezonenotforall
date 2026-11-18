@@ -1,7 +1,11 @@
 {
     "Pro": {
+        "1.6.33": [
+            "https://github.com/bobdevteam/bobprime/releases/download/V1.6.33/V1.6.33.rar",
+            "1CprBQO0AxmZfwl1b6561SIM_nYM3JhFV"
+        ],
         "1.6.32": [
-            "https://github.com/bobdevteam/bobprime/releases/download/V1.6.32/V1.6.32.rarr",
+            "https://github.com/bobdevteam/bobprime/releases/download/V1.6.32/V1.6.32.rar",
             "1Bhe7RISzXlodHuLKQDJOeJoO7tQRohC_"
         ],
         "1.6.31": [
@@ -35,22 +39,6 @@
         "1.6.23": [
             "https://github.com/bobdevteam/bobprime/releases/download/V1.6.23/V1.6.23.rar",
             "1RgFXT0FEsrFbkmr5jV13ZC37gl1gk17i"
-        ],
-        "1.6.22": [
-            "https://github.com/bobdevteam/bobprime/releases/download/V1.6.22/V1.6.22.rar",
-            "13MA0Kqu57KQQlDGT1s-lRFScc5oRlMyh"
-        ],
-        "1.6.21": [
-            "https://github.com/bobdevteam/bobprime/releases/download/V1.6.21/V1.6.21.rar",
-            "1SBky6x-xvt5TB9aev5za2zUkqOQbbLMY"
-        ],
-        "1.6.20": [
-            "https://github.com/bobdevteam/bobprime/releases/download/V1.6.20/V1.6.20.rar",
-            "19zpQVU7G7haN8VJINDoXO9QCTkTl6EXf"
-        ],
-        "1.6.19": [
-            "https://github.com/bobdevteam/bobprime/releases/download/V1.6.19/V1.6.19.rar",
-            "1FK7EIeNX6rr_3bOrJLmpRkC1CZ2LBvKo"
         ]
     },
     "news_code": "snapkee006",

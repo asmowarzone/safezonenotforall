@@ -1,6 +1,6 @@
 {
   "Pro":{
-    "1.6.32": "1Bhe7RISzXlodHuLKQDJOeJoO7tQRohC_"
+    "1.6.33": "1CprBQO0AxmZfwl1b6561SIM_nYM3JhFV"
       },
   "news_code": "snapkee001",
   "news_link": "https://www.bobdevteam.com/snapkee"
